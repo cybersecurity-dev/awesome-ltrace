@@ -1,10 +1,12 @@
-<p align="center">
-    <a href="https://wikipedia.org/wiki/Ltrace">
-      <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
-    </a>
-</p>
+<div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/Ltrace">
+          <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
+        </a>
+    </p>
 
 # Awesome [ltrace](https://man7.org/linux/man-pages/man1/ltrace.1.html) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.mankier.com/1/ltrace)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
