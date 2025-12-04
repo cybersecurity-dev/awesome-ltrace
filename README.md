@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# Awesome [ltrace](https://man7.org/linux/man-pages/man1/ltrace.1.html) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [ltrace](https://man7.org/linux/man-pages/man1/ltrace.1.html) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.mankier.com/1/ltrace)
