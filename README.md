@@ -1,10 +1,63 @@
 <div align="center">
     <p align="center">
         <a href="https://wikipedia.org/wiki/Ltrace">
-          <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
+          <img width="7%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
         </a>
     </p>
 
+```mermaid
+mindmap
+  root((ltrace))
+
+    Library Call Tracing
+      Shared Libraries
+      Dynamic Linking
+      Function Calls
+      Return Values
+
+    Process Analysis
+      New Process
+      Attach PID
+      Forked Processes
+      Child Processes
+
+    API Monitoring
+      libc
+      libpthread
+      libssl
+      libcrypto
+      libcurl
+
+    Reverse Engineering
+      Function Discovery
+      Runtime Behavior
+      Argument Analysis
+      Software Comprehension
+
+    Malware Analysis
+      Crypto Functions
+      Network APIs
+      File APIs
+      Anti-Debug Checks
+
+    Security Analysis
+      Authentication APIs
+      Privilege APIs
+      Command Execution APIs
+      Data Exfiltration APIs
+
+    Performance Analysis
+      Frequent Calls
+      Expensive Functions
+      Bottlenecks
+
+    Related Tools
+      strace
+      gdb
+      Frida
+      PIN
+      DynamoRIO
+```
 # **`Awesome`** [ltrace](https://man7.org/linux/man-pages/man1/ltrace.1.html) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
@@ -15,7 +68,7 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
@@ -25,7 +78,6 @@
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
-
 
 ##
 
